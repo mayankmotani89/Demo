@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T11:52:25.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="0lWxYphxKfJq1cBui5qY" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T11:54:22.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="_pBmFEPi-nTQ9mwuMIKX" version="14.9.9" type="github">
   <diagram id="4SGCue6jYb8tVdYU8SUc" name="Page-1">
     <mxGraphModel dx="2333" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,8 +94,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OzxeWZkHRU7RLQRrjXuC-57" value="Cloud Based" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="OzxeWZkHRU7RLQRrjXuC-57" value="Cloud Driven" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="610" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="OzxeWZkHRU7RLQRrjXuC-65" value="&lt;h1&gt;Themes&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Buy v/s build&lt;/li&gt;&lt;li&gt;Cloud driven&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="470" width="200" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
