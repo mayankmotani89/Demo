@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T10:36:08.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="R64H-OR_0oV6d_lhdflA" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T10:36:20.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="S134l-RlJGw54jKM0UAY" version="14.9.9" type="github">
   <diagram id="4SGCue6jYb8tVdYU8SUc" name="Page-1">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="85" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OzxeWZkHRU7RLQRrjXuC-11" value="Call Centre" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/help-and-support-5/64/call-centre-service-customer-telephone-128.png" vertex="1" parent="1">
-          <mxGeometry x="71" y="720" width="58" height="58" as="geometry" />
+          <mxGeometry x="85" y="591" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="OzxeWZkHRU7RLQRrjXuC-13" value="Self Service Channels" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="120" height="80" as="geometry" />
