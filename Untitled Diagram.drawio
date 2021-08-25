@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T11:31:46.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="6iqe-RSoDIxd9IMDVdqD" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T11:32:25.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="79a2e1kZ0-czntGvnlb-" version="14.9.9" type="github">
   <diagram id="4SGCue6jYb8tVdYU8SUc" name="Page-1">
     <mxGraphModel dx="2333" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="-68" y="269.75" width="50" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="OzxeWZkHRU7RLQRrjXuC-26" value="Customer Journeys" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="480" width="761" height="70" as="geometry" />
+          <mxGeometry x="39" y="480" width="601" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OzxeWZkHRU7RLQRrjXuC-29" value="Video Chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="380.25" width="120" height="60" as="geometry" />
